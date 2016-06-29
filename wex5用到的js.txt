@@ -1,0 +1,16 @@
+require.js    js模块化
+
+Modernizr.js  让各浏览器支持html5 c3 
+
+bootstrap.css 移动样式
+
+Knockout.js MVVM模式,使开发可以使用ko模型
+
+Sizzle.js  jquery用的选择器
+
+phonegap
+
+cordova.js 
+
+jquery
+
